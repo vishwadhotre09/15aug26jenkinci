@@ -11,7 +11,7 @@ public class job2 {
 		// Defaults (can be overridden via CLI args or interactive prompts)
 		String from = "Bengaluru";
 		String to = "Goa";
-		int days = 2;
+		int days = 3;
 		int travelers = 2; // number of people
 
 		double travelPerPerson = 2500.00; // roundtrip travel cost per person (INR)
