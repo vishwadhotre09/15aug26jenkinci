@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class job2 {
 	public static void main(String[] args) {
 		LocalDate today = LocalDate.now();
-		System.out.println("Goa 3-Day Trip Budget Calculator");
+		System.out.println("Goa 4-Day Trip Budget Calculator");
 		System.out.println("Date: " + today);
 		System.out.println();
 
